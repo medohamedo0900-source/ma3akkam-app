@@ -1,0 +1,6 @@
+{
+  "name": "معاك كام.كوم | Ma3akKam.com",
+  "description": "السوبر-آب الشامل والبديل الذكي لكافة تطبيقات وبرامج الخدمات ومصر: طعام، دليفري، سوبرماركت، مواصلات، بنوك، فواتير، صحة، ووظائف في تطبيق واحد خارق",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
